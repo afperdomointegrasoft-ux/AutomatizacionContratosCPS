@@ -24,6 +24,17 @@ class pagina(unittest.TestCase):
         self.home.seleccionar_producto()
         self.home.checkout("Andres","Perdomo","420005")
         self.home.finalizar_compra()
+    def test_05_removerProductos(self):
+        self.home.ingreso_pagina("standard_user", "secret_sauce")
+        self.home.seleccionar_producto()
+        self.home.remover_producto()
+
+    def test_06_cancelarCompra(self):
+        self.home.ingreso_pagina("standard_user", "secret_sauce")
+        self.home.seleccionar_producto()
+        self.home.checkout("Andres", "Perdomo", "420005")
+        self.home.cancelar()
+
 
     def tearDown(self):
         time.sleep(1)
