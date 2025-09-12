@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b7ab413-8061-4540-a631-41237407485b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/loginBPM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/test_loginBPM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" afterDir="false" />
     </list>
@@ -24,7 +23,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/Automatizacion CPS/functions" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -49,6 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,7 +134,9 @@
       <workItem from="1757626909194" duration="1151000" />
       <workItem from="1757628094746" duration="905000" />
       <workItem from="1757681860182" duration="3707000" />
-      <workItem from="1757685892415" duration="5620000" />
+      <workItem from="1757685892415" duration="9641000" />
+      <workItem from="1757706690649" duration="2944000" />
+      <workItem from="1757709725715" duration="28000" />
     </task>
     <servers />
   </component>

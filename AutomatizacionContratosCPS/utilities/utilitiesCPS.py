@@ -12,7 +12,7 @@ def browser_open(self):
 @staticmethod
 def generar_codigo():
     """
-    Genera el código concatenando el valor fijo con la parte dinámica:
+    Genera el  cod concatenando el valor fijo con la parte dinámica:
     Código = "900332071" + ((día + mes + año) * 2 + 13)
     """
     hoy = datetime.now()
