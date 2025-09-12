@@ -1,4 +1,4 @@
-from Utilities import utilities
+from ..utilities import utilitiesCPS
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -17,7 +17,7 @@ class login:
         self.driver.delete_all_cookies()
 
     def ingreso_pagina(self, usuario, password):
-        utilities.browser_open(self)
+        utilitiesCPS.browser_open(self)
         time.sleep(2)
         self.driver.find_element(by=By.XPATH, value="//input[contains(@placeholder,'Username')]").send_keys(usuario)
         time.sleep(1)
@@ -25,7 +25,7 @@ class login:
         self.driver.find_element(by=By.XPATH, value="//input[contains(@type,'submit')]").click()
 
     def val_camp_obli(self,cantidad):
-        utilities.val_camp_obl(self,cantidad)
+        utilitiesCPS.val_camp_obl(self,cantidad)
 
     def seleccionar_producto(self):
         self.driver.find_element(by=By.XPATH, value="//div[@class='inventory_item_name '][contains(.,'Sauce Labs Backpack')]").click()

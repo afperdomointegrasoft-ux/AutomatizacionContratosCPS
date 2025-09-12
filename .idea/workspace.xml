@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b7ab413-8061-4540-a631-41237407485b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/idea/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/test_pagina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PruebaTecnicaQA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/Automatizacion S_L.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/Utilities/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/Utilities/utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/functions/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/test/test_pagina.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32ZT5554UKF1VdqrmbmmZIUWGF1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_pagina.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Administrador/Documents/ContratosCPS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrador\Documents\ContratosCPS\AutomatizacionContratosCPS\test" />
+      <recent name="C:\Users\Administrador\Documents\ContratosCPS\AutomatizacionContratosCPS\utilities" />
+      <recent name="C:\Users\Administrador\Documents\ContratosCPS\AutomatizacionContratosCPS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b7ab413-8061-4540-a631-41237407485b" name="Changes" comment="" />
+      <created>1757626907970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757626907970</updated>
+      <workItem from="1757626909194" duration="1151000" />
+      <workItem from="1757628094746" duration="905000" />
+      <workItem from="1757681860182" duration="3707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ContratosCPS$.coverage" NAME=" Coverage Results" MODIFIED="1757684344237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

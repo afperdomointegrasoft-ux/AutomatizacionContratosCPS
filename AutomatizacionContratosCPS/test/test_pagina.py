@@ -1,6 +1,6 @@
 import unittest
 import time
-from Functions.login import login
+from ..functions.login import login
 
 class pagina(unittest.TestCase):
 
