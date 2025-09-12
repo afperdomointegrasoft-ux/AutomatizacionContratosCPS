@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b7ab413-8061-4540-a631-41237407485b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/idea/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/test_pagina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PruebaTecnicaQA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/Automatizacion S_L.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/Utilities/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/Utilities/utilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/functions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/functions/login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automatizacion Swag Labs/test/test_pagina.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/functions/loginBPM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/test/test_loginBPM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutomatizacionContratosCPS/utilities/utilitiesCPS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for AutomatizacionContratosCPS.test.test_loginBPM.pagina.executor": "Run",
+    "Python tests.Python tests in test_loginBPM.py.executor": "Run",
     "Python tests.Python tests in test_pagina.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,6 +59,46 @@
       <recent name="C:\Users\Administrador\Documents\ContratosCPS\AutomatizacionContratosCPS" />
     </key>
   </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_loginBPM.py">
+    <configuration name="Python tests for AutomatizacionContratosCPS.test.test_loginBPM.pagina" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ContratosCPS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AutomatizacionContratosCPS.test.test_loginBPM.pagina&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_loginBPM.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ContratosCPS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/AutomatizacionContratosCPS/test/test_loginBPM.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_loginBPM.py" />
+        <item itemvalue="Python tests.Python tests for AutomatizacionContratosCPS.test.test_loginBPM.pagina" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,13 +117,25 @@
       <workItem from="1757626909194" duration="1151000" />
       <workItem from="1757628094746" duration="905000" />
       <workItem from="1757681860182" duration="3707000" />
+      <workItem from="1757685892415" duration="5620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ContratosCPS$.coverage" NAME=" Coverage Results" MODIFIED="1757684344237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ContratosCPS$.coverage" NAME=" Coverage Results" MODIFIED="1757691375925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
